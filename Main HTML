@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<title>commUNITY</title>
+<!--//@ meta name content"width-device-width"--Set inital width to size of (presumably mobile) device-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- @ charset--chose iso-8859-1 because "it
+	intrinsically has certain characters" (via http://bytes.com/topic/html-css/answers/95428-charset-use)
+	-->
+	<meta charset="iso-8859-1">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<!--
+	<httpProtocol>
+  <customHeaders>
+    <clear />
+    <add name="X-UA-Compatible" value="IE=Edge,chrome=1" />
+  </customHeaders>
+</httpProtocol>
+If current X-UA-Compatible doesn't work, above should work (via http://stackoverflow.com/questions/7567661/http-equiv-x-ua-compatible-content-ie-edge-chrome-1-putting-this-in-hta)
+	-->
+	<title>Food Calendar</title>
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css"/>
+	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+    <script src="js/MenuCodeFinal.js"></script>
+</body>
+</html>
